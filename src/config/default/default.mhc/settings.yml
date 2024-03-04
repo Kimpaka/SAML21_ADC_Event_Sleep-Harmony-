@@ -1,0 +1,14 @@
+format_version: v1.0
+configName: default
+folderName: adc_test
+frameworkPath: C:\microchip\harmony_framework
+processor: ATSAML21J18B
+projectName: adc_test
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: dev_packs\Microchip\SAML21_DFP\3.7.217\saml21b\atdf\ATSAML21J18B.atdf
